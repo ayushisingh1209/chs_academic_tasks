@@ -1,0 +1,41 @@
+Product Name,Selling Price,DateTime,Purchased By,Cash/Card,Broker,Country Imported
+Smartphone,500,18-03-2024 10:15,Alice Smith,Card,XYZ Broker,China
+Smartphone,500,,Alice Smith,Card,XYZ Broker,China
+Television,1000,18-03-2024 10:30,Bob Johnson,Cash,DEF Broker,South Korea
+Headphones,,18-03-2024 10:45,Emily Brown,Card,MNO Broker,
+Tablet,300,18-03-2024 11:00,Sarah Lee,Cash,PQR Broker,Taiwan
+Camera,600,18-03-2024 11:15,,Card,GHI Broker,Germany
+Smartwatch,200,18-03-2024 11:30,Karen Chen,Cash,JKL Broker,Vietnam
+Speakers,,18-03-2024 11:45,Michael Kim,Card,RST Broker,India
+Gaming Console,400,18-03-2024 12:00,James Smith,Card,UVW Broker,Malaysia
+Fitness Tracker,80,18-03-2024 12:15,Jennifer Liu,Cash,XYZ Broker,Singapore
+Microwave Oven,150,18-03-2024 12:30,Eric Wang,Card,MNO Broker,Thailand
+Refrigerator,1200,18-03-2024 12:45,Linda Wu,Cash,GHI Broker,France
+Coffee Maker,70,18-03-2024 13:00,Daniel Lee,Card,RST Broker,Brazil
+Air Conditioner,1000,18-03-2024 13:15,Michelle Tan,Card,PQR Broker,UAE
+Blender,40,18-03-2024 13:30,Ryan Nguyen,Cash,DEF Broker,Mexico
+Vacuum Cleaner,200,18-03-2024 13:45,Sophia Zhang,Card,JKL Broker,Australia
+Printer,150,18-03-2024 14:00,Olivia Chen,Card,ABC Broker,Canada
+Projector,500,18-03-2024 14:15,Ethan Wu,Cash,UVW Broker,Italy
+Drone,300,18-03-2024 14:30,Ethan Chen,Card,MNO Broker,Spain
+Rice Cooker,50,18-03-2024 14:45,Grace Wang,Card,GHI Broker,Netherlands
+Rice Cooker,50,18-03-2024 14:45,Grace Wang,Card,GHI Broker,Netherlands
+Blender,40,,Emily Brown,Cash,RST Broker,Mexico
+Laptop,800,19-03-2024 10:45,David Wong,Card,JKL Broker,USA
+Smartwatch,200,19-03-2024 11:00,Michael Kim,,ABC Broker,Vietnam
+Smartphone,500,19-03-2024 11:15,Sarah Lee,Card,XYZ Broker,China
+Television,1000,19-03-2024 11:30,Jennifer Liu,Card,PQR Broker,South Korea
+,300,19-03-2024 11:45,Ethan Chen,Cash,,Spain
+Tablet,300,19-03-2024 12:00,Ethan Wu,Card,DEF Broker,Taiwan
+Camera,600,19-03-2024 12:15,Grace Wang,Card,JKL Broker,Germany
+Fitness Tracker,80,19-03-2024 12:30,Olivia Chen,Cash,UVW Broker,Singapore
+Printer,150,19-03-2024 12:45,Daniel Lee,Card,RST Broker,Canada
+Air Conditioner,1000,19-03-2024 13:00,Ryan Nguyen,Card,ABC Broker,UAE
+Headphones,50,19-03-2024 13:15,Sophia Zhang,Cash,MNO Broker,
+Speakers,100,19-03-2024 13:30,Ethan Wu,Card,XYZ Broker,India
+Refrigerator,1200,19-03-2024 13:45,Michael Kim,Cash,PQR Broker,France
+Washing Machine,700,19-03-2024 14:00,David Wong,Card,GHI Broker,Russia
+Oven,350,19-03-2024 14:15,Sarah Lee,Card,JKL Broker,Germany
+Blender,40,19-03-2024 14:30,Jennifer Liu,Cash,DEF Broker,Mexico
+Laptop,800,19-03-2024 14:45,Ethan Chen,Card,UVW Broker,USA
+Laptop,800,18-03-2024 10:00,John Doe,Card,ABC Broker,USA
